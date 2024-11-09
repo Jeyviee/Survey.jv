@@ -9,7 +9,7 @@ This is about a survey for fun.
 ## Key Features
 
 - Inputs
-  name, age and email
+  (name, age and email)
 - Questions about one's self
 
 ## Technologies Used
