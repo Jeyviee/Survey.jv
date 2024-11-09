@@ -8,7 +8,7 @@ This is about a survey for fun.
 
 ## Key Features
 
--Inputs
+- Inputs
   name, age and email
 - Questions about one's self
 
